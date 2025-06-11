@@ -18,7 +18,7 @@ const ForLoops = () => {
 
         <div className="mt-4">
             <form onSubmit={again} className="w-100 border border-amber-400 p-4">
-                <h1 className="text-center font-bold text-amber-300">Appending arrays</h1>
+                <h1 className="text-center font-bold text-amber-300">Arrays</h1>
                 <input
                 value={another}
                  onChange={(e) => setAnother(Number(e.target.value))}
@@ -37,7 +37,7 @@ const ForLoops = () => {
                         <p>none for now</p>
                     )}
 
-
+                    <p className="text-sm "><span className="font-bold">NB:</span>Appending numbers into an array counting from 0- value entered</p>
                 </div>
             </form>
         </div>

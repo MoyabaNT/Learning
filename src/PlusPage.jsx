@@ -81,7 +81,7 @@ const PlusPage = () => {
                 />
                 <button type='submit' value='submit' className="ml-2 border border-amber-900 rounded p-1" >Submit</button>
                 <label className="ml-2"> Total = {multiResults}</label>
-                <p><span className="font-bold">NB: </span>Multiplying and displaying the sum</p> 
+                <p><span className="font-bold">NB: </span>Multiplying and displaying the total</p> 
             </form>
         </div>
 
@@ -99,7 +99,7 @@ const PlusPage = () => {
                 />
                 <button type='submit' value='submit' className="ml-2 border border-amber-900 rounded p-1" >Submit</button>
                 <label className="ml-2"> Total = {devideResults}</label>
-                <p><span className="font-bold">NB: </span>deviding and displaying the total</p> 
+                <p><span className="font-bold">NB: </span>dividing and displaying the total</p> 
             </form>
         </div>
 

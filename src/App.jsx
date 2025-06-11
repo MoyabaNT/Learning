@@ -1,3 +1,4 @@
+import Append from "./Append"
 import ForLoops from "./ForLoops"
 import PlusPage from "./PlusPage"
 
@@ -7,6 +8,7 @@ function App() {
     <div >
       <PlusPage />
       <ForLoops />
+      <Append />
     </div>
   )
 }
