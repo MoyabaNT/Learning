@@ -37,7 +37,7 @@ const ForLoops = () => {
                         <p>none for now</p>
                     )}
 
-                    <p className="text-sm "><span className="font-bold">NB:</span>Appending numbers into an array counting from 0- value entered</p>
+                    <p className="text-sm "><span className="font-bold">NB: </span>Appending numbers into an array counting from 0- value entered</p>
                 </div>
             </form>
         </div>

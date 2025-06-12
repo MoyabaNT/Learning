@@ -6,8 +6,6 @@ function App() {
 
   return (
     <div >
-      <PlusPage />
-      <ForLoops />
       <Append />
     </div>
   )
