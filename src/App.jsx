@@ -1,13 +1,11 @@
-import Append from "./Append"
-import Display from "./Display"
-import ForLoops from "./ForLoops"
-import PlusPage from "./PlusPage"
+import Crud from "./Crud"
+
 
 function App() {
 
   return (
     <div >
-      <Display />
+      <Crud />
     </div>
   )
 }
