@@ -1,11 +1,11 @@
-import Crud from "./Crud"
+import AddingEdit from "./AddingEdit"
 
 
 function App() {
 
   return (
     <div >
-      <Crud />
+      <AddingEdit />
     </div>
   )
 }
